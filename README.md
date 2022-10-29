@@ -5,6 +5,5 @@
 ![](https://img.shields.io/badge/-HTML-red)
 ![](https://img.shields.io/badge/-CSS-blue)
 ![](https://img.shields.io/badge/-JavaScript-yellow)
-
-### In the future, I`ll update my markdown. 
+ 
 ## Keep Calm 
